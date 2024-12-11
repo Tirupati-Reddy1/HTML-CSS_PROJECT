@@ -632,7 +632,7 @@ a{
         flex-direction: column;
     }
     .div2 {
-        background-image: url(/bestoffer.png);
+        background-image: url(navbar-bg.png);
         width: 100%;
         height: 50vh;
         border: 1px solid white;
