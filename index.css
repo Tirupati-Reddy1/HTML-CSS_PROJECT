@@ -575,7 +575,7 @@ a{
         border: 1px solid;
         padding: 9px;
         border-radius: 15px;
-        width: 16vw;
+        width: 17vw;
         text-align: center;
         margin-left: 55px;
         font-size: 60%;
@@ -584,7 +584,7 @@ a{
         transform: scale(1.1);
     }
     .sublogo img{
-        height: 20%;
+        height: 16%;
     
         width: 40%;
         
