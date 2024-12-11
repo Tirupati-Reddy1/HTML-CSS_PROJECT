@@ -92,7 +92,7 @@ svg:hover{
     display: flex;
 }
 .div2 {
-    background-image: url(/bestoffer.png);
+    background-image: url(bestoffer.png);
     width: 40vw;
     height: 50vh;
     border: 1px solid white;
