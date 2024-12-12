@@ -43,6 +43,7 @@
     width: 12vw;
     text-align: center;
     margin-left: 55px;
+    cursor: pointer;
 }
 .sublogo img{
     height: 20%;
@@ -79,6 +80,7 @@
 }
 svg{
     height: 40px;
+    cursor: pointer;
 }
 svg:hover{
     transform: scale(1.1);
@@ -107,6 +109,7 @@ svg:hover{
     margin: auto;
     display: flex;
     margin-top: 70px;
+    cursor: pointer;
 }
 .div2 img:hover{
     transform: scale(1.1);
@@ -179,6 +182,7 @@ flex-wrap: wrap;
     border-radius: 15px;
     background-color: rgb(184, 13, 47);
     color: white;
+    cursor: pointer;
 
 }
 .awesome4:hover{
@@ -225,6 +229,7 @@ flex-wrap: wrap;
     border-radius: 3px;
     box-shadow: 0 0 3px white;
     justify-content: space-around;
+    cursor: pointer;
     
 
 
@@ -301,6 +306,7 @@ flex-wrap: wrap;
     background-color: white;
     border: none;
     margin-right: 20px;
+    cursor: pointer;
 }
 .con_p5:hover{
     transform: scale(1.1);
@@ -380,6 +386,7 @@ flex-wrap: wrap;
     display: flex;
     justify-content: center;
     border-radius: 35px;
+    cursor: pointer;
 
 
 }
@@ -409,6 +416,7 @@ body{
 }
 .footer_2 img:hover{
     transform: scale(1.1);
+    cursor: pointer;
 }
 .footer_1{
     border: 1px solid;
@@ -445,6 +453,7 @@ input{
     width: 25%;
     margin-top: 5%;
     margin-left: 5%;
+    cursor: pointer;
     
    
     
@@ -579,6 +588,7 @@ a{
         text-align: center;
         margin-left: 55px;
         font-size: 60%;
+        cursor: pointer;
     }
     .discoverme:hover{
         transform: scale(1.1);
@@ -621,6 +631,7 @@ a{
     }
     svg{
         height: 30px;
+        cursor: pointer;
     }
     svg:hover{
         transform: scale(1.1);
@@ -647,6 +658,7 @@ a{
         margin: auto;
         display: flex;
         margin-top: 70px;
+        cursor: pointer;
     }
     .div2 img:hover{
         transform: scale(1.1);
@@ -714,11 +726,12 @@ a{
         border-radius: 15px;
         background-color: rgb(184, 13, 47);
         color: white;
-        margin-left: 1
+        margin-left: 1;
     
     }
     .awesome4:hover{
         transform: scale(1.1);
+        cursor: pointer;
     }
     .copyright{
         border: 1px solid;
@@ -771,12 +784,8 @@ a{
         margin: auto;
         border-radius: 3px;
         box-shadow: 0 0 3px white;
-        
-    
-        
-    
-    
-    }
+        cursor: pointer;
+        }
     
     #web_conferences {
         border: 1px solid white;
@@ -849,6 +858,7 @@ a{
         background-color: white;
         border: none;
         margin-right: 20px;
+        cursor: pointer;
     }
     .con_p5:hover{
         transform: scale(1.1);
@@ -978,6 +988,7 @@ a{
         display: flex;
         justify-content: center;
         border-radius: 35px;
+        cursor: pointer;
     
     
     }
@@ -1039,14 +1050,12 @@ a{
         width: 25%;
         margin-top: 5%;
         margin-left: 5%;
+        cursor: pointer;
         
        
         
     }
-    .inputboxes{
-       
-        
-    }
+    
     .input{
         width: 85%;
     }
@@ -1067,6 +1076,7 @@ a{
     }
     .footer_2 img:hover{
         transform: scale(1.1);
+        cursor: pointer;
     }
     
     
